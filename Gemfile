@@ -13,7 +13,7 @@ gem 'bcrypt',         '3.1.12'
 gem 'faker',          '1.7.3'
 gem 'will_paginate',           '3.1.6' # paging
 gem 'bootstrap-will_paginate', '1.0.0' # paging
-gem 'carrierwave',             '1.2.2' # upload image
+gem 'carrierwave',             '1.3.2' # upload image
 gem 'mini_magick',             '4.7.0' # upload img
 
 group :development, :test do
